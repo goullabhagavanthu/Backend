@@ -1,1 +1,3 @@
-# Backend
+# Welcome to My Backend Development Journey 🚀
+
+From mastering core Python principles to architecting robust web APIs, this repository chronicles my hands-on exploration of industry-standard frameworks, clean architecture patterns, and scalable deployments. Dive in to see how I turned theory into real-world projects, built with Django, Flask, and FastAPI, tested with pytest, and containerized for production. Let’s build—and scale—together!
