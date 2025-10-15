@@ -1,3 +1,22 @@
-# Welcome to My Backend Development Journey 🚀
+A curated set of concise, step-by-step guides on building core backend technologies from scratch. Ideal for developers eager to understand backend systems deeply through hands-on practice.
 
-From mastering core Python principles to architecting robust web APIs, this repository chronicles my hands-on exploration of industry-standard frameworks, clean architecture patterns, and scalable deployments. Dive in to see how I turned theory into real-world projects, built with Django, Flask, and FastAPI, tested with pytest, and containerized for production. Let’s build—and scale—together!
+***
+> _He who has a why to live can bear almost any how_ - Friedrich Nietzsche
+
+- [Internet] (https://youtu.be/zN8YNNHcaZc?si=chpJ6t_3gsZT3oyo)
+
+- [Python] (https://github.com/shahadot786/Python-Books/blob/master/python-crash-course.pdf)
+
+- [Version Control] (https://git-scm.com/)
+
+- [Django] (https://ia800604.us.archive.org/3/items/ebooks_202307/djangoforprofessionals.pdf)
+
+- [Flask] (https://coddyschool.com/upload/Flask_Web_Development_Developing.pdf)
+
+- [APIs] (https://github.com/PacktPublishing/Building-Python-Web-APIs-with-FastAPI)
+
+- [System Design] (https://tiu-edu.uz/media/books/2025/01/15/Architecture-Patterns-with-Python.pdf)
+
+- [Databases] (https://unidel.edu.ng/focelibrary/books/Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable,%20Scalable,%20and%20Maintainable%20Systems%20by%20Martin%20Kleppmann%20(z-lib.org).pdf)
+
+- [Testing] (https://tisten.ir/blog/wp-content/uploads/2019/01/Python-Testing-with-pytest-Pragmatic-Bookshelf-2017-Brian-Okken.pdf)
