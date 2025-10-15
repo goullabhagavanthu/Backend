@@ -1,8 +1,8 @@
-Master backend development with rigorous theory and hands-on projects -no paid tutorials, no fluff.
+Master backend development with rigorous theory and hands-on projects .no paid tutorials .no fluff.
 ---
 > _He who has a why to live can bear almost any how_ - Friedrich Nietzsche
 
-This is all you need to know.
+Dive right in.
 
 - [Internet](https://youtu.be/zN8YNNHcaZc?si=chpJ6t_3gsZT3oyo)
 - [Python](https://github.com/shahadot786/Python-Books/blob/master/python-crash-course.pdf)
