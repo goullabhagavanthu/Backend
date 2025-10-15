@@ -1,3 +1,5 @@
+![Python Backend](https://i.pinimg.com/1200x/98/06/a3/9806a3bc2a5a8439eb92c153f06c62ae.jpg)
+
 Master backend development with rigorous theory and hands-on projects .no paid tutorials .no fluff.
 ---
 > _He who has a why to live can bear almost any how_ - Friedrich Nietzsche
