@@ -1,4 +1,5 @@
-![Python Backend](https://i.pinimg.com/1200x/98/06/a3/9806a3bc2a5a8439eb92c153f06c62ae.jpg)
+![Python Backend](https://wallpapers.com/images/high/python-wdgqvwdld10kp7j5.webp)
+
 
 Master backend development with rigorous theory and hands-on projects .no paid tutorials .no fluff.
 ---
